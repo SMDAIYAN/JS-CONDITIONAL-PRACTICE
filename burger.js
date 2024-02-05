@@ -1,4 +1,6 @@
 
+// Burger task
+
 let Burger = 625;
 
 // Burger = 485;
@@ -10,3 +12,4 @@ if (Burger > 500) {
 else {
     console.log('30tk')
 }
+
